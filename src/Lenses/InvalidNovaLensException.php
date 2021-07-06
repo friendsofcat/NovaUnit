@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Lenses;
+namespace FriendsOfCat\NovaUnit\Lenses;
 
 /**
  * Occurs when attempting to initialize a Nova Lens test

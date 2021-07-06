@@ -1,9 +1,9 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Fixtures\Lenses;
+namespace FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses;
 
 use Illuminate\Http\Request;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
 use Laravel\Nova\Fields\Text;
 use Laravel\Nova\Http\Requests\LensRequest;
 use Laravel\Nova\Lenses\Lens;

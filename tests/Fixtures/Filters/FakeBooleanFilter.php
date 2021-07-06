@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Fixtures\Filters;
+namespace FriendsOfCat\NovaUnit\Tests\Fixtures\Filters;
 
 use Illuminate\Http\Request;
 use Laravel\Nova\Filters\BooleanFilter;

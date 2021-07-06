@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Fixtures\Resources;
+namespace FriendsOfCat\NovaUnit\Tests\Fixtures\Resources;
 
 use Illuminate\Http\Request;
 use Laravel\Nova\Fields\Number;

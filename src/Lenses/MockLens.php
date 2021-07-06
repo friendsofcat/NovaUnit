@@ -1,14 +1,14 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Lenses;
+namespace FriendsOfCat\NovaUnit\Lenses;
 
 use Illuminate\Database\Eloquent\Model;
-use JoshGaber\NovaUnit\Constraints\EloquentCollectionContains;
-use JoshGaber\NovaUnit\Exceptions\InvalidModelException;
-use JoshGaber\NovaUnit\MockComponent;
-use JoshGaber\NovaUnit\Traits\ActionAssertions;
-use JoshGaber\NovaUnit\Traits\FieldAssertions;
-use JoshGaber\NovaUnit\Traits\FilterAssertions;
+use FriendsOfCat\NovaUnit\Constraints\EloquentCollectionContains;
+use FriendsOfCat\NovaUnit\Exceptions\InvalidModelException;
+use FriendsOfCat\NovaUnit\MockComponent;
+use FriendsOfCat\NovaUnit\Traits\ActionAssertions;
+use FriendsOfCat\NovaUnit\Traits\FieldAssertions;
+use FriendsOfCat\NovaUnit\Traits\FilterAssertions;
 use PHPUnit\Framework\Assert as PHPUnit;
 
 class MockLens extends MockComponent

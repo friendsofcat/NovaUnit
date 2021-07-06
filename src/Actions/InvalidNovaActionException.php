@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Actions;
+namespace FriendsOfCat\NovaUnit\Actions;
 
 /**
  * Occurs when attempting to initialize a Nova Action test

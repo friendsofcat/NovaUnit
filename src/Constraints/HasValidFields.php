@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Constraints;
+namespace FriendsOfCat\NovaUnit\Constraints;
 
 use Laravel\Nova\Fields\Field;
 use Laravel\Nova\Panel;

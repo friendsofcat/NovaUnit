@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Filters;
+namespace FriendsOfCat\NovaUnit\Filters;
 
 /**
  * Occurs when attempting to initialize a Nova Filter test

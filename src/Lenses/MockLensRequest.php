@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Lenses;
+namespace FriendsOfCat\NovaUnit\Lenses;
 
 use Laravel\Nova\Http\Requests\LensRequest;
 

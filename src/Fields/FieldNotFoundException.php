@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Fields;
+namespace FriendsOfCat\NovaUnit\Fields;
 
 class FieldNotFoundException extends \Exception
 {

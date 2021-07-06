@@ -1,8 +1,8 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Actions;
+namespace FriendsOfCat\NovaUnit\Actions;
 
-use JoshGaber\NovaUnit\Constraints\IsActionResponseType;
+use FriendsOfCat\NovaUnit\Constraints\IsActionResponseType;
 use PHPUnit\Framework\Assert as PHPUnit;
 use PHPUnit\Framework\Constraint\IsType;
 

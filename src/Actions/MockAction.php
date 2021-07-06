@@ -1,12 +1,12 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Actions;
+namespace FriendsOfCat\NovaUnit\Actions;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
-use JoshGaber\NovaUnit\MockComponent;
-use JoshGaber\NovaUnit\Traits\FieldAssertions;
+use FriendsOfCat\NovaUnit\MockComponent;
+use FriendsOfCat\NovaUnit\Traits\FieldAssertions;
 use Laravel\Nova\Fields\ActionFields;
 
 class MockAction extends MockComponent

@@ -1,9 +1,9 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Traits;
+namespace FriendsOfCat\NovaUnit\Traits;
 
 use Illuminate\Http\Request;
-use JoshGaber\NovaUnit\Constraints\ArrayHasInstanceOf;
+use FriendsOfCat\NovaUnit\Constraints\ArrayHasInstanceOf;
 use Laravel\Nova\Filters\Filter;
 use PHPUnit\Framework\Assert as PHPUnit;
 use PHPUnit\Framework\Constraint\IsType;

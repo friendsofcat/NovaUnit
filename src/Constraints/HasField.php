@@ -1,8 +1,8 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Constraints;
+namespace FriendsOfCat\NovaUnit\Constraints;
 
-use JoshGaber\NovaUnit\Fields\FieldHelper;
+use FriendsOfCat\NovaUnit\Fields\FieldHelper;
 use Laravel\Nova\Fields\Field;
 use PHPUnit\Framework\Constraint\Constraint;
 

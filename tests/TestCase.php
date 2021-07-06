@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests;
+namespace FriendsOfCat\NovaUnit\Tests;
 
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;

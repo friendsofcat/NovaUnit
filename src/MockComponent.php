@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit;
+namespace FriendsOfCat\NovaUnit;
 
 abstract class MockComponent
 {

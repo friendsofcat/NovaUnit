@@ -1,13 +1,13 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Feature\Actions;
+namespace FriendsOfCat\NovaUnit\Tests\Feature\Actions;
 
-use JoshGaber\NovaUnit\Resources\MockResource;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionNoFields;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
-use JoshGaber\NovaUnit\Tests\Fixtures\MockModel;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceForActionTests;
-use JoshGaber\NovaUnit\Tests\TestCase;
+use FriendsOfCat\NovaUnit\Resources\MockResource;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionNoFields;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\MockModel;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceForActionTests;
+use FriendsOfCat\NovaUnit\Tests\TestCase;
 
 class MockActionElementTest extends TestCase
 {

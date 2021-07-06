@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Fixtures;
+namespace FriendsOfCat\NovaUnit\Tests\Fixtures;
 
 use Illuminate\Database\Eloquent\Model;
 

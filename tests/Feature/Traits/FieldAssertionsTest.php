@@ -1,20 +1,20 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Feature\Traits;
+namespace FriendsOfCat\NovaUnit\Tests\Feature\Traits;
 
-use JoshGaber\NovaUnit\Actions\MockAction;
-use JoshGaber\NovaUnit\Fields\FieldNotFoundException;
-use JoshGaber\NovaUnit\Fields\MockFieldElement;
-use JoshGaber\NovaUnit\Lenses\MockLens;
-use JoshGaber\NovaUnit\Resources\MockResource;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionInvalidFields;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionInvalidFieldset;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionNoFields;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
-use JoshGaber\NovaUnit\Tests\Fixtures\Lenses\LensValidFieldsWithPanels;
-use JoshGaber\NovaUnit\Tests\Fixtures\MockModel;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceValidFieldsWithPanels;
-use JoshGaber\NovaUnit\Tests\TestCase;
+use FriendsOfCat\NovaUnit\Actions\MockAction;
+use FriendsOfCat\NovaUnit\Fields\FieldNotFoundException;
+use FriendsOfCat\NovaUnit\Fields\MockFieldElement;
+use FriendsOfCat\NovaUnit\Lenses\MockLens;
+use FriendsOfCat\NovaUnit\Resources\MockResource;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionInvalidFields;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionInvalidFieldset;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionNoFields;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses\LensValidFieldsWithPanels;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\MockModel;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceValidFieldsWithPanels;
+use FriendsOfCat\NovaUnit\Tests\TestCase;
 
 class FieldAssertionsTest extends TestCase
 {

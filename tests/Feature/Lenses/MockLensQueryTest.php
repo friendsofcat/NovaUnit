@@ -1,13 +1,13 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Feature\Lenses;
+namespace FriendsOfCat\NovaUnit\Tests\Feature\Lenses;
 
-use JoshGaber\NovaUnit\Lenses\MockLens;
-use JoshGaber\NovaUnit\Tests\Fixtures\Lenses\LensQueryTenOrGreater;
-use JoshGaber\NovaUnit\Tests\Fixtures\Lenses\LensWithFiltersAndOrdering;
-use JoshGaber\NovaUnit\Tests\Fixtures\Lenses\LensWithoutFiltersAndOrdering;
-use JoshGaber\NovaUnit\Tests\Fixtures\MockModel;
-use JoshGaber\NovaUnit\Tests\TestCase;
+use FriendsOfCat\NovaUnit\Lenses\MockLens;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses\LensQueryTenOrGreater;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses\LensWithFiltersAndOrdering;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses\LensWithoutFiltersAndOrdering;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\MockModel;
+use FriendsOfCat\NovaUnit\Tests\TestCase;
 
 class MockLensQueryTest extends TestCase
 {

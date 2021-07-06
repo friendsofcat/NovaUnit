@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Fixtures\Actions;
+namespace FriendsOfCat\NovaUnit\Tests\Fixtures\Actions;
 
 use Laravel\Nova\Actions\Action;
 use Laravel\Nova\Fields\Text;

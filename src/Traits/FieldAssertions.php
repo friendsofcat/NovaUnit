@@ -1,15 +1,15 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Traits;
+namespace FriendsOfCat\NovaUnit\Traits;
 
 use Illuminate\Http\Request;
-use JoshGaber\NovaUnit\Constraints\HasField;
-use JoshGaber\NovaUnit\Constraints\HasValidFields;
-use JoshGaber\NovaUnit\Fields\FieldHelper;
-use JoshGaber\NovaUnit\Fields\FieldNotFoundException;
-use JoshGaber\NovaUnit\Fields\MockFieldElement;
-use JoshGaber\NovaUnit\Lenses\MockLens;
-use JoshGaber\NovaUnit\Resources\MockResource;
+use FriendsOfCat\NovaUnit\Constraints\HasField;
+use FriendsOfCat\NovaUnit\Constraints\HasValidFields;
+use FriendsOfCat\NovaUnit\Fields\FieldHelper;
+use FriendsOfCat\NovaUnit\Fields\FieldNotFoundException;
+use FriendsOfCat\NovaUnit\Fields\MockFieldElement;
+use FriendsOfCat\NovaUnit\Lenses\MockLens;
+use FriendsOfCat\NovaUnit\Resources\MockResource;
 use PHPUnit\Framework\Assert as PHPUnit;
 use PHPUnit\Framework\Constraint\IsType;
 

@@ -1,11 +1,11 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Feature\Filters;
+namespace FriendsOfCat\NovaUnit\Tests\Feature\Filters;
 
-use JoshGaber\NovaUnit\Filters\InvalidNovaFilterException;
-use JoshGaber\NovaUnit\Filters\MockFilter;
-use JoshGaber\NovaUnit\Filters\NovaFilterTest;
-use JoshGaber\NovaUnit\Tests\Fixtures\Filters\FakeSelectFilter;
+use FriendsOfCat\NovaUnit\Filters\InvalidNovaFilterException;
+use FriendsOfCat\NovaUnit\Filters\MockFilter;
+use FriendsOfCat\NovaUnit\Filters\NovaFilterTest;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Filters\FakeSelectFilter;
 use PHPUnit\Framework\TestCase;
 
 class NovaFilterTestTest extends TestCase

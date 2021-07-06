@@ -1,14 +1,12 @@
 {
-    "name": "joshgaber/novaunit",
+    "name": "friendsofcat/novaunit",
     "description": "Unit testing suite for Laravel Nova, built to extend PHPUnit",
-    "version": "1.2",
     "keywords": [
         "laravel",
         "nova",
-        "joshgaber",
         "novaunit"
     ],
-    "homepage": "https://github.com/joshgaber/novaunit",
+    "homepage": "https://github.com/friendsofcat/novaunit",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -20,16 +18,16 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.2|^8.0",
         "ext-mbstring": "*",
         "cakephp/chronos": ">=1.2.3",
-        "illuminate/support": "^6.0|^7.0",
+        "illuminate/support": "^6.0|^7.0|^8.0",
         "laravel/nova": "^2.0|^3.0",
-        "phpunit/phpunit": "^8.5|^9.0"
+        "phpunit/phpunit": "^8.5|^9.5"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.16",
-        "orchestra/testbench": "^5.2"
+        "orchestra/testbench": "^5.2|^6.0"
     },
     "repositories": [
         {
@@ -39,12 +37,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "JoshGaber\\NovaUnit\\": "src"
+            "FriendsOfCat\\NovaUnit\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "JoshGaber\\NovaUnit\\Tests\\": "tests"
+            "FriendsOfCat\\NovaUnit\\Tests\\": "tests"
         }
     },
     "scripts": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Exceptions;
+namespace FriendsOfCat\NovaUnit\Exceptions;
 
 /**
  * Thrown when a provided value is not an instance of an Eloquent Model.

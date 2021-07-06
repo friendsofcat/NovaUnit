@@ -1,9 +1,9 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Fixtures\Resources;
+namespace FriendsOfCat\NovaUnit\Tests\Fixtures\Resources;
 
 use Illuminate\Http\Request;
-use JoshGaber\NovaUnit\Tests\Fixtures\MockModel;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\MockModel;
 use Laravel\Nova\Resource;
 
 class ResourceInvalidFieldsetAndActionSet extends Resource

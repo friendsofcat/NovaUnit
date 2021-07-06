@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Fixtures\Lenses;
+namespace FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses;
 
 use Illuminate\Http\Request;
 use Laravel\Nova\Http\Requests\LensRequest;

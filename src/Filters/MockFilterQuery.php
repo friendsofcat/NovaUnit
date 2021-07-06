@@ -1,10 +1,10 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Filters;
+namespace FriendsOfCat\NovaUnit\Filters;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
-use JoshGaber\NovaUnit\Constraints\EloquentCollectionContains;
+use FriendsOfCat\NovaUnit\Constraints\EloquentCollectionContains;
 use PHPUnit\Framework\Assert as PHPUnit;
 
 class MockFilterQuery

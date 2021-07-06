@@ -1,11 +1,11 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Filters;
+namespace FriendsOfCat\NovaUnit\Filters;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\Request;
-use JoshGaber\NovaUnit\Exceptions\InvalidModelException;
-use JoshGaber\NovaUnit\MockComponent;
+use FriendsOfCat\NovaUnit\Exceptions\InvalidModelException;
+use FriendsOfCat\NovaUnit\MockComponent;
 use Laravel\Nova\Filters\BooleanFilter;
 use Laravel\Nova\Filters\DateFilter;
 use Laravel\Nova\Filters\Filter;

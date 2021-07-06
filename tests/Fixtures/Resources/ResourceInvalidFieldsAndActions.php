@@ -1,11 +1,11 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Fixtures\Resources;
+namespace FriendsOfCat\NovaUnit\Tests\Fixtures\Resources;
 
 use Illuminate\Http\Request;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
-use JoshGaber\NovaUnit\Tests\Fixtures\Filters\FakeSelectFilter;
-use JoshGaber\NovaUnit\Tests\Fixtures\MockModel;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Filters\FakeSelectFilter;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\MockModel;
 use Laravel\Nova\Fields\Text;
 use Laravel\Nova\Resource;
 

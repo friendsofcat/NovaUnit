@@ -1,16 +1,16 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Feature\Traits;
+namespace FriendsOfCat\NovaUnit\Tests\Feature\Traits;
 
-use JoshGaber\NovaUnit\Resources\MockResource;
-use JoshGaber\NovaUnit\Tests\Fixtures\Filters\FakeDateFilter;
-use JoshGaber\NovaUnit\Tests\Fixtures\Filters\FakeSelectFilter;
-use JoshGaber\NovaUnit\Tests\Fixtures\MockModel;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceInvalidFieldsAndActions;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceInvalidFieldsetAndActionSet;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceNoFieldsOrActions;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceValidFieldsAndActions;
-use JoshGaber\NovaUnit\Tests\TestCase;
+use FriendsOfCat\NovaUnit\Resources\MockResource;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Filters\FakeDateFilter;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Filters\FakeSelectFilter;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\MockModel;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceInvalidFieldsAndActions;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceInvalidFieldsetAndActionSet;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceNoFieldsOrActions;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceValidFieldsAndActions;
+use FriendsOfCat\NovaUnit\Tests\TestCase;
 
 class FilterAssertionsTest extends TestCase
 {

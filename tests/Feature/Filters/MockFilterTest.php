@@ -1,15 +1,15 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Feature\Filters;
+namespace FriendsOfCat\NovaUnit\Tests\Feature\Filters;
 
-use JoshGaber\NovaUnit\Exceptions\InvalidModelException;
-use JoshGaber\NovaUnit\Filters\MockFilter;
-use JoshGaber\NovaUnit\Filters\MockFilterQuery;
-use JoshGaber\NovaUnit\Tests\Fixtures\Filters\FakeBooleanFilter;
-use JoshGaber\NovaUnit\Tests\Fixtures\Filters\FakeDateFilter;
-use JoshGaber\NovaUnit\Tests\Fixtures\Filters\FakeSelectFilter;
-use JoshGaber\NovaUnit\Tests\Fixtures\MockModel;
-use JoshGaber\NovaUnit\Tests\TestCase;
+use FriendsOfCat\NovaUnit\Exceptions\InvalidModelException;
+use FriendsOfCat\NovaUnit\Filters\MockFilter;
+use FriendsOfCat\NovaUnit\Filters\MockFilterQuery;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Filters\FakeBooleanFilter;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Filters\FakeDateFilter;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Filters\FakeSelectFilter;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\MockModel;
+use FriendsOfCat\NovaUnit\Tests\TestCase;
 
 class MockFilterTest extends TestCase
 {

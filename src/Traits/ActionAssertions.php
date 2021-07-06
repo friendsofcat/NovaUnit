@@ -1,11 +1,11 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Traits;
+namespace FriendsOfCat\NovaUnit\Traits;
 
 use Illuminate\Http\Request;
-use JoshGaber\NovaUnit\Actions\ActionNotFoundException;
-use JoshGaber\NovaUnit\Actions\MockActionElement;
-use JoshGaber\NovaUnit\Constraints\ArrayHasInstanceOf;
+use FriendsOfCat\NovaUnit\Actions\ActionNotFoundException;
+use FriendsOfCat\NovaUnit\Actions\MockActionElement;
+use FriendsOfCat\NovaUnit\Constraints\ArrayHasInstanceOf;
 use Laravel\Nova\Actions\Action;
 use PHPUnit\Framework\Assert as PHPUnit;
 use PHPUnit\Framework\Constraint\IsType;

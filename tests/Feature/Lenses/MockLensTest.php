@@ -1,16 +1,16 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Feature\Lenses;
+namespace FriendsOfCat\NovaUnit\Tests\Feature\Lenses;
 
-use JoshGaber\NovaUnit\Exceptions\InvalidModelException;
-use JoshGaber\NovaUnit\Lenses\MockLens;
-use JoshGaber\NovaUnit\Lenses\MockLensQuery;
-use JoshGaber\NovaUnit\Tests\Fixtures\Lenses\LensQueryTenOrGreater;
-use JoshGaber\NovaUnit\Tests\Fixtures\Lenses\LensValidFieldsAndActions;
-use JoshGaber\NovaUnit\Tests\Fixtures\Lenses\LensWithFiltersAndOrdering;
-use JoshGaber\NovaUnit\Tests\Fixtures\Lenses\LensWithoutFiltersAndOrdering;
-use JoshGaber\NovaUnit\Tests\Fixtures\MockModel;
-use JoshGaber\NovaUnit\Tests\TestCase;
+use FriendsOfCat\NovaUnit\Exceptions\InvalidModelException;
+use FriendsOfCat\NovaUnit\Lenses\MockLens;
+use FriendsOfCat\NovaUnit\Lenses\MockLensQuery;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses\LensQueryTenOrGreater;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses\LensValidFieldsAndActions;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses\LensWithFiltersAndOrdering;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Lenses\LensWithoutFiltersAndOrdering;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\MockModel;
+use FriendsOfCat\NovaUnit\Tests\TestCase;
 
 class MockLensTest extends TestCase
 {

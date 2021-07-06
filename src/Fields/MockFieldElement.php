@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Fields;
+namespace FriendsOfCat\NovaUnit\Fields;
 
 use Laravel\Nova\Fields\Field;
 use PHPUnit\Framework\Assert as PHPUnit;

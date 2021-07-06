@@ -1,19 +1,19 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Feature\Traits;
+namespace FriendsOfCat\NovaUnit\Tests\Feature\Traits;
 
-use JoshGaber\NovaUnit\Actions\ActionNotFoundException;
-use JoshGaber\NovaUnit\Actions\MockActionElement;
-use JoshGaber\NovaUnit\Resources\MockResource;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionInvalidFields;
-use JoshGaber\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
-use JoshGaber\NovaUnit\Tests\Fixtures\MockModel;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceForActionTests;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceInvalidFieldsAndActions;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceInvalidFieldsetAndActionSet;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceNoFieldsOrActions;
-use JoshGaber\NovaUnit\Tests\Fixtures\Resources\ResourceValidFieldsAndActions;
-use JoshGaber\NovaUnit\Tests\TestCase;
+use FriendsOfCat\NovaUnit\Actions\ActionNotFoundException;
+use FriendsOfCat\NovaUnit\Actions\MockActionElement;
+use FriendsOfCat\NovaUnit\Resources\MockResource;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionInvalidFields;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Actions\ActionValidFields;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\MockModel;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceForActionTests;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceInvalidFieldsAndActions;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceInvalidFieldsetAndActionSet;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceNoFieldsOrActions;
+use FriendsOfCat\NovaUnit\Tests\Fixtures\Resources\ResourceValidFieldsAndActions;
+use FriendsOfCat\NovaUnit\Tests\TestCase;
 
 class ActionAssertionsTest extends TestCase
 {

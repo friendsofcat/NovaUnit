@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Constraints;
+namespace FriendsOfCat\NovaUnit\Constraints;
 
 use Illuminate\Database\Eloquent\Model;
 use PHPUnit\Framework\Constraint\Constraint;

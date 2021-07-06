@@ -1,9 +1,9 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Tests\Feature\Actions;
+namespace FriendsOfCat\NovaUnit\Tests\Feature\Actions;
 
-use JoshGaber\NovaUnit\Actions\MockActionResponse;
-use JoshGaber\NovaUnit\Tests\TestCase;
+use FriendsOfCat\NovaUnit\Actions\MockActionResponse;
+use FriendsOfCat\NovaUnit\Tests\TestCase;
 use Laravel\Nova\Actions\Action;
 
 class MockActionResponseTest extends TestCase

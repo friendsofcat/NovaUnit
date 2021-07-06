@@ -1,6 +1,6 @@
 <?php
 
-namespace JoshGaber\NovaUnit\Filters;
+namespace FriendsOfCat\NovaUnit\Filters;
 
 use Laravel\Nova\Filters\Filter;
 
